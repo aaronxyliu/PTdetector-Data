@@ -1,0 +1,100 @@
+file_id,library,file,size,depth,# back edges,# identifiers,# random_vertices
+1,AMP,v0.js,5005,13,244,16,684
+2,AmplifyJS,amplify.core.js,5,2,0,1,0
+3,AmplifyJS,amplify.store.js,13,4,0,1,0
+4,AmplifyJS,amplify.min.js,30,4,0,1,72
+5,Angular,core.umd.min.js,710,7,26,1,0
+6,AngularJS,angular.min.js,60,4,0,1,0
+7,Backbone,backbone.min.js,60,4,0,1,0
+8,Bootstrap,bootstrap.min.js,245,5,0,2,0
+9,CamanJS,caman.min.js,105,4,0,1,0
+10,Can,ecosystem.min.js,10000,6,102,7,0
+11,Can,everything.min.js,10000,6,102,7,0
+12,Can,core.min.js,8941,10,20,6,0
+13,Closure Library,base.min.js,184,7,1,3,0
+14,core-js,minified.js,58,3,0,11,0
+15,CreateJS,createjs.min.js,701,4,0,2,0
+16,D3,d3.min.js,906,3,1,1,0
+17,DC.js,dc.min.js,141,5,0,1,0
+18,Dojo,dojo.js,9965,6,76,5,31
+19,Ext JS,ext-all.js,9993,4,7,2,7
+20,Fabric.js,fabric.min.js,884,7,1,6,0
+21,FastClick,fastclick.min.js,4,2,0,1,0
+22,FlexSlider,jquery.flexslider.min.js,58,3,0,1,73
+23,FlotCharts,jquery.canvaswrapper.min.js,3,2,0,1,72
+24,FuseJS,fuse.basic.min.js,24,3,1,3,0
+25,FuseJS,fuse.min.js,24,3,1,3,0
+26,gRaphaël,g.raphael-min.js,37,3,0,1,0
+27,GreenSock JS,gsap.min.js,340,5,0,30,0
+28,Hammer.js,hammer.min.js,61,4,0,1,0
+29,Handlebars,handlebars.min.js,140,4,1,1,0
+30,Handlebars,handlebars.runtime.min.js,62,3,1,1,0
+31,Handsontable,handsontable.full.min.js,1056,5,0,4,0
+32,Handsontable,handsontable.min.js,858,5,0,1,0
+33,Head JS,head.css3.min.js,33,3,0,1,0
+34,Head JS,head.min.js,37,3,0,1,0
+35,Head JS,head.core.min.js,19,3,0,1,0
+36,Head JS,head.load.min.js,6,2,0,1,0
+37,Highcharts,highcharts.min.js,5792,12,3,1,0
+38,IfVisible.js,ifvisible.min.js,13,2,0,1,0
+39,Ink,ink.min.js,10000,4,0,1,0
+40,Ink,ink-all.min.js,10000,4,0,1,0
+41,Ionic,ionic.js,12,3,0,7,0
+42,Isotope,isotope.pkgd.min.js,115,6,0,8,0
+43,jQuery,jquery.slim.min.js,702,6,2,1,72
+44,jQuery,jquery.min.js,814,6,2,1,72
+45,jQuery Mobile,jquery.mobile.min.js,2438,10,15,1,139
+46,jQuery Tools,jquery.tools.min.js,296,5,1,2,3
+47,jQuery UI,jquery-ui.min.js,1088,6,2,1,80
+48,Kendo UI,kendo.ui.core.min.js,1071,7,7,2,144
+49,Knockout,knockout-latest.min.js,956,4,6,1,0
+50,LABjs,LAB.min.js,11,2,0,1,0
+51,Leaflet,leaflet.min.js,6501,15,14,2,0
+52,Lo-Dash,lodash.core.min.js,6,1,0,1,0
+53,Lo-Dash,lodash.min.js,258,2,7,1,0
+54,Mapbox,mapbox-gl.js,66,4,0,1,0
+55,Marionette,marionette.min.js,89,3,0,1,0
+56,Material Design Lite,material.min.js,26,2,0,18,0
+57,Matter.js,matter.min.js,318,4,0,1,1
+58,Modernizr,modernizr.min.js,97,3,0,2,0
+59,Moment Timezone,moment-timezone.min.js,26,2,0,1,0
+60,Moment.js,moment.min.js,178,4,0,1,0
+61,MooTools,mootools-core.min.js,1128,7,42,45,0
+62,MooTools,mootools-core-compat.min.js,1293,7,43,68,0
+63,Move,move.min.js,34,3,0,1,0
+64,Numeral.js,numeral.min.js,103,6,0,1,0
+65,Paper.js,paper-full.min.js,11,3,0,1,0
+66,Paper.js,paper-core.min.js,11,3,0,1,0
+67,Pixi.js,pixi.min.js,1938,10,10,11,0
+68,Preact,preact.min.js,15,3,0,1,0
+69,Processing.js,processing.min.js,75,3,0,10,0
+70,Prototype,prototype.min.js,532,7,0,25,24
+71,Pusher,pusher.min.js,118,7,0,1,0
+72,Qooxdoo,q.min.js,9996,6,204,3,4
+73,Raphaël,raphael.min.js,393,8,3,1,0
+74,React,react.production.min.js,68,4,0,1,0
+75,RequireJS,require.min.js,112,6,0,3,0
+76,Riot,riot.min.js,38,5,1,3,0
+77,Sammy,sammy.min.js,29,3,0,2,72
+78,Scriptaculous,scriptaculous.min.js,6,2,0,1,24
+79,Scriptaculous,builder.min.js,27,3,0,1,0
+80,ScrollMagic,ScrollMagic.min.js,31,4,0,1,0
+81,Sea.js,sea.js,38,4,0,2,0
+82,Socket.IO,socket.io.min.js,6,2,2,1,0
+83,SPF,spf.js,41,3,0,2,0
+84,Spine,spine.min.js,109,5,0,1,0
+85,SWFObject,swfobject.min.js,23,3,0,1,0
+86,three.js,three.min.js,2412,7,0,2,0
+87,Tween.js,tween.umd.min.js,134,5,0,1,0
+88,Two,two.min.js,327,6,0,1,0
+89,Underscore,underscore.min.js,157,4,3,1,0
+90,Velocity.js,velocity.min.js,156,4,2,1,0
+91,Visibility.js,visibility.min.js,35,4,0,1,0
+92,Vue,vue.global.min.js,360,5,0,3,0
+93,Vue,vue.runtime.global.min.js,360,5,0,3,0
+94,WebFont Loader,webfont.js,3,2,0,1,0
+95,yepnope,yepnope.min.js,6,2,0,1,0
+96,YUI 3,yui-min.js,200,7,3,1,0
+97,Zepto.js,zepto.min.js,176,4,0,1,0
+98,core-js,core.min.js,492,3,2,8,69
+99,Modernizr,modernizr.min.js,90,3,0,2,0
