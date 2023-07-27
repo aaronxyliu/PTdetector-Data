@@ -2,7 +2,7 @@
 
 The tool `PTdetector` can be found [here](https://github.com/aaronxyliu/PTdetector).
 
-For each of the charts in the paper, we consolidated both the associated dataset files and the code in a folder, presented as a Jupyter Notebook.
+For each plot and table in the paper, we consolidated both the associated dataset files and the code in a seperate folder, presented in the Python Jupyter Notebook format.
 
 #### Data Files
 
